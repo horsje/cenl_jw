@@ -1,0 +1,1 @@
+void WaardeTot1000000InLetters(long getal);
