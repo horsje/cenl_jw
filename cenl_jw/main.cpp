@@ -6,7 +6,8 @@ int main(void)
 {
 	long getal;
 
-	while (LeesGetalCheckStop(&getal) != STOP) {
+	while (LeesGetalCheckStop(&getal) != STOP) 
+	{
         printf("\n\nDe waarde van het getal %li is in letters:\n\n", getal);
 		printf("--->");
 
