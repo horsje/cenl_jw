@@ -8,7 +8,7 @@ int main(void)
 
 	while (LeesGetalCheckStop(&getal) != STOP) 
 	{
-        printf("\n\nDe waarde van het getal %li is in letters:\n\n", getal);
+        printf("\nDe waarde van het getal %li is in letters:\n\n", getal);
 		printf("--->");
 
 		if (getal < 0)
